@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{E40DFFDB-D4E3-01A1-8AAC-61EAE32741B3}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/RabbitAnimator.cs">
+    <Files>
+      <File FileName="Assets/Standard Assets/Utility/SimpleActivatorMenu.cs" Line="41" Column="1" />
+      <File FileName="Assets/Scripts/RabbitAnimator.cs" Line="113" Column="41" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="NC hack Challenge" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="RabbitAnimator.cs" selected="True" />
+              </Node>
+              <Node name="Standard Assets" expanded="True">
+                <Node name="Utility" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="fa244210-7443-45d6-a665-33247b06dde0" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
